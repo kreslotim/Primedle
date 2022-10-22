@@ -1,0 +1,469 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "seg3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[107]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[105]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[104]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[103]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[102]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[101]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[100]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[99]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[98]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[97]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[96]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[93]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[92]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[91]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[90]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[89]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[88]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[87]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[86]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[85]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[84]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[83]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[81]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[80]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[79]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[78]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[77]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[76]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[75]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[74]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[73]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[72]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[58]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[57]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[55]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[54]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[52]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[51]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[49]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[48]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[46]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[45]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[43]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[42]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[40]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[39]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[37]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[36]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[34]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[33]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[31]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[30]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[28]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[27]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[25]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[24]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[22]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[21]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[19]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[18]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[16]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[15]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[13]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[12]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[10]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[9]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[7]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_array[0]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "n_golden_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_guess_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "n_reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "n_check_btn",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

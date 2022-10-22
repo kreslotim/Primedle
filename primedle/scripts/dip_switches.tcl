@@ -1,0 +1,38 @@
+# You have to replace <ENTITY_PORT_NAME_xxx> with the name of the Output port
+# of your top entity
+set_location_assignment PIN_V11  -to n_golden_in[7]
+set_location_assignment PIN_V10  -to n_golden_in[6]
+set_location_assignment PIN_AB10 -to n_golden_in[5]
+set_location_assignment PIN_AA10 -to n_golden_in[4]
+set_location_assignment PIN_AB9  -to n_golden_in[3]
+set_location_assignment PIN_AA9  -to n_golden_in[2]
+set_location_assignment PIN_AB8  -to n_golden_in[1]
+set_location_assignment PIN_AA8  -to n_golden_in[0]
+
+set_location_assignment PIN_Y8   -to n_guess_in[7]
+set_location_assignment PIN_AB7  -to n_guess_in[6]
+set_location_assignment PIN_AA7  -to n_guess_in[5]
+set_location_assignment PIN_Y7   -to n_guess_in[4]
+set_location_assignment PIN_Y6   -to n_guess_in[3]
+set_location_assignment PIN_AB5  -to n_guess_in[2]
+set_location_assignment PIN_AA5  -to n_guess_in[1]
+set_location_assignment PIN_AB4  -to n_guess_in[0]
+
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[7]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[6]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[5]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[4]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[3]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[2]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[1]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_golden_in[0]
+
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[7]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[6]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[5]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[4]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[3]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[2]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[1]
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to n_guess_in[0]
+

@@ -1,0 +1,7 @@
+
+State Machine - |primedle|game_ctrl:ctrl|s_next_state
+Name s_next_state.FIN s_next_state.UPDATE s_next_state.CHECK s_next_state.IDLE 
+s_next_state.IDLE 0 0 0 0 
+s_next_state.CHECK 0 0 1 1 
+s_next_state.UPDATE 0 1 0 1 
+s_next_state.FIN 1 0 0 1 
